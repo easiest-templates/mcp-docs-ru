@@ -1,30 +1,7 @@
-# mcp-docs-ru
+# protokol.js — Лендинг для JavaScript библиотеки
 
-Шаблон лендинга для dev-tool / JS-библиотеки на русском языке. Основан на дизайне mcp.js.
+![Preview](https://cdn.poehali.dev/templates/mcp-docs/preview-ru-v2.jpg)
 
-![Screenshot](screenshot.png)
+Минималистичный лендинг для документации JavaScript библиотеки или dev-инструмента. Тёмная тема, блоки с кодом, секции с примерами использования. Идеально для open-source проектов и разработчиков.
 
-## Особенности
-
-- Vite + React + TypeScript
-- Tailwind CSS + shadcn/ui
-- Кириллические шрифты (Roboto + Roboto Mono)
-- Адаптивный дизайн
-- Темная тема
-
-## Установка
-
-```bash
-npm install
-npm run dev
-```
-
-## Сборка
-
-```bash
-npm run build
-```
-
-## Лицензия
-
-MIT
+`"tags": ["saas", "dark", "developer", "general"]`
